@@ -1,1 +1,2 @@
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaa
+Branchanje iz Eclipse-a
