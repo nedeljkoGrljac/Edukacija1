@@ -1,2 +1,6 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Ajde da ludujemo. 
+bbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaa
+Branchanje iz Eclipse-a
+Testirajmo i bit ce nam svima lakse
+
