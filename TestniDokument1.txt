@@ -1,2 +1,3 @@
 bbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaa
 Branchanje iz Eclipse-a
+Testirajmo i bit će nam svima lakše.
