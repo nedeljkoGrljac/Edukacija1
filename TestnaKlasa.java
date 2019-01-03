@@ -11,15 +11,17 @@ public class TestnaKlasa {
      * @param args
      */
     public static void main(String[] args) throws Exception{
-
-    	System.out.println("PROJECT TESTING");
-    	
+    	System.out.println("main");
     	dummyCall();
-
-    	System.out.println("PROJECT ");
     }
     
     private static void dummyCall(){
+    	System.out.println("dummyCall");
+    	dummyCallTwo();
+    }
+    
+    private static void dummyCallTwo(){
+    	System.out.println("dummyCallTwo");
     }
     
 }
