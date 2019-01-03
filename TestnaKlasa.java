@@ -22,7 +22,7 @@ public class TestnaKlasa {
     
     private static void dummyCallTwo(){
     	System.out.println("dummyCallTwo");
-	    //dummyCallThree();
+	    dummyCallThree();
     }
 	
 	private static void dummyCallThree(){
