@@ -12,6 +12,12 @@ public class TestnaKlasa {
      */
     public static void main(String[] args) throws Exception{
     	System.out.println("PROJECT TESTING");
+    	
+    	dummyCall();
     }
+    
+    private static void dummyCall(){
+    }
+    
 }
 
