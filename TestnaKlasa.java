@@ -16,7 +16,7 @@ public class TestnaKlasa {
     }
     
     private static void dummyCall(){
-    	System.out.println("dummyCall");
+    	//System.out.println("dummyCall");
     	dummyCallTwo();
     }
     
