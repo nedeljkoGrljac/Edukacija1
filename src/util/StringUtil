@@ -1,7 +1,7 @@
 package util;
 
 
-public class StringUtil{
+public class StringUtil implements UtilConstants{
 
 private final String EMPTY = "";
 
