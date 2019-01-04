@@ -1,0 +1,15 @@
+package util;
+
+
+public class StringUtil{
+
+private final String EMPTY = "";
+
+public boolean isEmptyString(String str){
+   if(str==null || str.trim().equals(EMPTY)) return true;
+   
+   return false;
+}
+
+
+}
