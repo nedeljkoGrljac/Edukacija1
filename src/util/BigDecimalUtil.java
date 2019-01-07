@@ -7,20 +7,28 @@ public class BigDecimalUtil implements UtilConstants{
 	public static void main(String[] args) {
 
 	}
-	
+
 	public boolean isNullBigDecimal(BigDecimal b) {     
-	if(b==null){     
-		return true;
+		if(b==null){     
+			return true;
+		}
+
+		return false;     
 	}
-	
-	return false;     
-}
-	
+
 	public boolean isZeroBigDecimal(BigDecimal b) {     
-	if(b!=null && b.compareTo(BigDecimal.ZERO)==0){     
-		return true;
+		if(b!=null && b.compareTo(BigDecimal.ZERO)==0){     
+			return true;
+		}
+
+		return false;     
 	}
-	
-	return false;     
-}
+
+	public boolean isTenBigDecimal(BigDecimal b) {     
+		if(b!=null && b.compareTo(BigDecimal.TEN)==0){     
+			return true;
+		}
+
+		return false;     
+	}
 }
