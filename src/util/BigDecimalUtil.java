@@ -17,7 +17,7 @@ public class BigDecimalUtil implements UtilConstants{
 	}
 	
 	public boolean isZeroOrTenBigDecimal(BigDecimal b) {     
-		if(isZeroBigDecimal(b) || isTenBigDecimal(b)) return true;
+		if(isNullBigDecimal(b) && isZeroBigDecimal(b) || isTenBigDecimal(b)) return true;
 
 		return false;     
 	}
